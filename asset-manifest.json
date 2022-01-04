@@ -5,15 +5,15 @@
     "main.js.map": "https://superdev-0604.github.io/csb-z6srn/static/js/main.cd0ef5fe.chunk.js.map",
     "runtime-main.js": "https://superdev-0604.github.io/csb-z6srn/static/js/runtime-main.524d1068.js",
     "runtime-main.js.map": "https://superdev-0604.github.io/csb-z6srn/static/js/runtime-main.524d1068.js.map",
-    "static/js/2.bd00b7e4.chunk.js": "https://superdev-0604.github.io/csb-z6srn/static/js/2.bd00b7e4.chunk.js",
-    "static/js/2.bd00b7e4.chunk.js.map": "https://superdev-0604.github.io/csb-z6srn/static/js/2.bd00b7e4.chunk.js.map",
+    "static/js/2.dd3d682d.chunk.js": "https://superdev-0604.github.io/csb-z6srn/static/js/2.dd3d682d.chunk.js",
+    "static/js/2.dd3d682d.chunk.js.map": "https://superdev-0604.github.io/csb-z6srn/static/js/2.dd3d682d.chunk.js.map",
     "index.html": "https://superdev-0604.github.io/csb-z6srn/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://superdev-0604.github.io/csb-z6srn/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.bd00b7e4.chunk.js.LICENSE.txt": "https://superdev-0604.github.io/csb-z6srn/static/js/2.bd00b7e4.chunk.js.LICENSE.txt"
+    "static/js/2.dd3d682d.chunk.js.LICENSE.txt": "https://superdev-0604.github.io/csb-z6srn/static/js/2.dd3d682d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.524d1068.js",
-    "static/js/2.bd00b7e4.chunk.js",
+    "static/js/2.dd3d682d.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.cd0ef5fe.chunk.js"
   ]
